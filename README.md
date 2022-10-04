@@ -5,17 +5,21 @@ Allows you to develop using the SASS/SCSS.
 
 ## Getting Started
 
-### Installation
-
-1. install all pacakges in pacakges.json
+Install all pacakges in pacakges.json
 ```
 npm install
+// or
+yarn install
 ```
 
-2. To Start Developing in SASS And JS 
+## Usage
+
+To Start Developing in SASS And JS 
 
 ```
 npm run watch
+// or
+yarn run watch
 ```
 
 ### NPM Pacakges
@@ -24,3 +28,7 @@ npm run watch
 2. [npm-watch](https://www.npmjs.com/package/npm-watch) 
 3. [sass-loader](https://www.npmjs.com/package/sass-loader)  
 4. [resolve-url-loader](https://www.npmjs.com/package/resolve-url-loader)
+
+## Credits
+
+Author: [David Aganov](https://github.com/davidaganov21)
