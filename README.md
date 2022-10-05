@@ -22,6 +22,14 @@ npm run watch
 yarn run watch
 ```
 
+Creating a Production Build
+
+```
+npm run prod
+// or
+yarn run prod
+```
+
 ### NPM Pacakges
 
 1. [laravel-mix](https://laravel-mix.com/docs/6.0/installation)  
