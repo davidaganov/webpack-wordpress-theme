@@ -39,4 +39,4 @@ yarn run prod
 
 ## Credits
 
-Author: [David Aganov](https://github.com/davidaganov21)
+Author: [David Aganov](https://github.com/davidaganov)
